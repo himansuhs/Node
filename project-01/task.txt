@@ -1,0 +1,14 @@
+REST API-JSON
+GET /api/user-list of all user
+GET /api/user/1 - get the user with id 1    
+1 is dynamic we cant write api/user/1
+instead api/user/:id   :id is a variable
+
+POST /api/user-create new user
+
+patch/api/user/1 - Edit the user with ID 1
+
+DELETE /api/user/1-delete the user with id 1
+
+/api/user - it will show json file
+/user- render the html document
